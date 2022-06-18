@@ -1,0 +1,11 @@
+{
+  "name": "censorify",
+  "description": "Censors words out of text",
+  "version": "0.1.1",
+  "author": "chenhua",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

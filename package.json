@@ -1,5 +1,5 @@
 {
-  "name": "censorify",
+  "name": "censorify-chenhua",
   "description": "Censors words out of text",
   "version": "0.1.1",
   "author": "chenhua",
@@ -12,13 +12,9 @@
     "type": "git",
     "url": "https://github.com/chenhua16888/censorify"
   },
-  "devDependencies": {
-    "eslint": "7.32.0",
-    "eslint-plugin-markdown": "2.2.1",
-    "mocha": "9.2.0",
-    "nyc": "15.1.0"
+  "dependencies": {
+    "censorify-chenhua": "^0.1.1"
   },
-  "dependencies": {},
   "engines": {
     "node": "*"
   }

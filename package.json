@@ -1,5 +1,5 @@
 {
-  "name": "censorify",
+  "name": "censorify-chenhua-2",
   "description": "Censors words out of text",
   "version": "0.1.1",
   "author": "chenhua",
@@ -13,7 +13,7 @@
     "url": "https://github.com/chenhua16888/censorify"
   },
   "dependencies": {
-    "censorify": "^0.1.1"
+    "censorify-chenhua-2": "^0.1.1"
   },
   "engines": {
     "node": "*"

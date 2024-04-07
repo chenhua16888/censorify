@@ -1,2 +1,0 @@
-# censorify
-censorify node js

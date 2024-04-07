@@ -1,0 +1,21 @@
+{
+  "name": "censorify",
+  "description": "Censors words out of text",
+  "version": "0.1.1",
+  "author": "chenhua",
+  "main": "censortext",
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenhua16888/censorify"
+  },
+  "dependencies": {
+    "censorify": "^0.1.1"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
